@@ -1,0 +1,7 @@
+{
+  "name": "Aether Weather",
+  "description": "A visually stunning, glassmorphic weather dashboard powered by Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
